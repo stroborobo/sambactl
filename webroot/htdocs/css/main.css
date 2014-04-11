@@ -1,0 +1,34 @@
+/**
+ * main.css
+ */
+
+body {
+	background-color:	#eee;
+}
+
+body > div {
+	background-color:	#fff;
+}
+
+div.title {
+	padding:		10px 0;
+}
+
+div.form {
+	background-color:	#EFF5FA;
+	padding:		20px 0 10px 0;
+}
+
+div.table {
+	padding-top:		20px;
+}
+
+form button {
+	height:			37px;
+	padding-top:		0.675rem !important;
+	margin:			21px 0 0 0;
+}
+
+tr .button {
+	margin-bottom:		0px;
+}

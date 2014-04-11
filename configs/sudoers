@@ -1,0 +1,2 @@
+Cmnd_Alias	SAMBACTL = /usr/local/bin/sambactl-worker
+www-data	ALL = NOPASSWD: SAMBACTL

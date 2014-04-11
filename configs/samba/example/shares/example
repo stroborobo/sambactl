@@ -1,0 +1,4 @@
+[example]
+path = /srv/samba/example
+writable = yes
+valid users = example
