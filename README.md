@@ -13,10 +13,10 @@ Dependencies
 
 * Samba
 * Apache (you may need to change stuff for other httpds)
-* mod_fastcgi
+* mod\_fastcgi
 * Sudo (So sambactl-worker has the rights to manage samba)
 * expect
-* Go[1]
+* [Go](http://golang.org/)
 
 Installation
 ------------
@@ -27,4 +27,3 @@ Installation
 Check the config directory after installation, so the other services will be
 configured correctly.
 
-[1]: http://golang.org/
