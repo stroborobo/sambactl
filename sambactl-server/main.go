@@ -21,7 +21,6 @@ const (
 
 var (
 	m sync.Mutex = sync.Mutex{}
-	cwd string = ""
 	fileHandler http.Handler
 )
 
